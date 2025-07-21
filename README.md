@@ -16,7 +16,6 @@ Documentation: http://beautifultable.readthedocs.io/
 This Package provides BeautifulTable class for easily printing
 tabular data in a visually appealing format to a terminal.
 
-
 Current build status
 ====================
 
